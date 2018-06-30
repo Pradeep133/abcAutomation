@@ -1,0 +1,3 @@
+global:
+    browser : firefox              #possible values: ie, ff, chrome
+    url     : "https://www.abcconsultants.in/"

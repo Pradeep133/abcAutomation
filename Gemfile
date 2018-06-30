@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+gem "rake"
+gem "cucumber"
+gem "rspec", ">0"
+gem "watir-webdriver"
+gem "watir-page-helper"
+#gem "headless", ">0"
